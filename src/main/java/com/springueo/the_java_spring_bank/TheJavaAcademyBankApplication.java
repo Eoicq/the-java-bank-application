@@ -17,16 +17,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				contact = @Contact(
 						name = "Max Dzenik",
 						email = "makc.dzen@gmail.com",
-						url = "https://github.com/Eoicq/tja_bank_app"
+						url = "https://github.com/Eoicq/the-java-academy-bank/tree/master"
 				),
 				license = @License(
 						name = "The Java Academy",
-						url = "https://github.com/Eoicq/tja_bank_app"
+						url = "https://github.com/Eoicq/the-java-academy-bank/tree/master"
 				)
 		),
 		externalDocs = @ExternalDocumentation(
 				description = "The Java Academy Bank App Documentation",
-				url = "https://github.com/Eoicq/tja_bank_app"
+				url = "https://github.com/Eoicq/the-java-academy-bank/tree/master"
 		)
 )
 public class TheJavaAcademyBankApplication {
